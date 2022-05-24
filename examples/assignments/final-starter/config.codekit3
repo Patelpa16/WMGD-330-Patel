@@ -21,6 +21,71 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 1572,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/logo.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/map.png" : {
+      "ft" : 32768,
+      "iS" : 454566,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/map.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/people.png" : {
+      "ft" : 32768,
+      "iS" : 29685,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/people.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/people1.png" : {
+      "ft" : 32768,
+      "iS" : 35750,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/people1.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/philly.png" : {
+      "ft" : 32768,
+      "iS" : 113461,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/philly.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -209,6 +274,38 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/dev\/scss\/components\/footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/footer.html",
+      "oF" : 0
+    },
+    "\/dev\/scss\/components\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/header.html",
+      "oF" : 0
+    },
+    "\/dev\/scss\/components\/hero.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/scss\/components\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/scss\/components\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/hero.html",
+      "oF" : 0
+    },
     "\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -253,22 +350,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
-    },
-    "\/dev\/section-1.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/section-1.html",
-      "oF" : 0
-    },
-    "\/dev\/section-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/section-2.html",
-      "oF" : 0
     }
   },
   "hooks" : [
@@ -279,10 +360,11 @@
   },
   "projectAttributes" : {
     "creationDate" : 607448965.33801401,
-    "displayValue" : "final",
+    "displayValue" : "final-starter",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-forest",
-    "iconImageWasSetByUser" : 0
+    "iconImageWasSetByUser" : 0,
+    "lastBuiltDate" : 675053448.74984801
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

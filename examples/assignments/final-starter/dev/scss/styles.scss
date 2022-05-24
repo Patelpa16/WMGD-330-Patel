@@ -7,4 +7,6 @@
 // Base Styles
 @import 'base/_normalize';
 @import 'base/_base';
-@import 'base/_typography';
+@import 'components/_header';
+@import 'components/_hero';
+@import 'components/_footer';
